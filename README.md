@@ -41,6 +41,10 @@
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
 * [Analyze Videos with Azure Open AI GPT-4 Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)
 * [Creating a GenAI Enterprise Co-pilot](https://www.linkedin.com/pulse/genai-enterprise-copilot-serhiy-seletskyi--mprqf/?trackingId=ea1fOd%2BrTXOODIoiZfjNrg%3D%3D)
+* [Prompting - provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
+* [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
+* [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
+* [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
 
 ## Open source models on Azure
 * [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
@@ -48,6 +52,7 @@
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
 * [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)
+* [Data Security, Protection and Model Management – with Azure OpenAI](https://www.linkedin.com/pulse/data-security-protection-model-management-azure-kalai-shakrapani-6xq9c/?trackingId=39PX2qsES5SZ7ch0iESB%2Bw%3D%3D)
 
 ## Operations
 * [Calulating business unit chargebacks using shared Azure OpenAI instance](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202)
