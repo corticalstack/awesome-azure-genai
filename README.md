@@ -35,6 +35,8 @@
 ## Applications and Development Tools
 * [Azure OpenAI samples](https://github.com/Azure/azure-openai-samples)
 * [ChatGPT + Enterprise data with Azure OpenAI and AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+* [Azure OpenAI RAG workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop)
+* [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
 * [Getting started with Azure AI Studio](https://www.linkedin.com/pulse/getting-started-azure-ai-studio-valentina-alto-wx1of/)
 * [Azure sample OpenAI end-to-end baseline reference implementation](https://github.com/azure-Samples/openai-end-to-end-baseline)
 * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
