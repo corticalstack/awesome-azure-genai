@@ -52,6 +52,7 @@
 
 ## Open source models on Azure
 * [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
+* [Fine Tuning Open Source Large Language Models (PEFT QLoRA) on Azure Machine Learning](https://blog.devgenius.io/fine-tuning-large-language-models-on-azure-machine-learning-358338f4e66a)
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
