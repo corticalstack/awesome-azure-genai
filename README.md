@@ -2,8 +2,10 @@
 A curated list of links to insights, knowledge, learning and tooling related to GenAI on Azure.
 
 ## Table of Contents
-- [Large Language Models](#large-language-models)
-- [RAG](#rag)
+- [Azure Model Services & Integration](#azure-model-services-&-integration)
+- [Azure OpenAI Performance](#azure-openai-performance)
+- [Model Customization](#model-customization)
+- [Applications & Development Tools](#applications-&-development-tools)
 - [Security](#security)
 
 ## Azure Model Services & Integration
@@ -23,7 +25,7 @@ A curated list of links to insights, knowledge, learning and tooling related to 
 ## Model Customization
 * [Azure OpenAI fine-tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) and more [here](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
 
-## Application and Development Tools
+## Applications & Development Tools
 * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
 * [Assistants API to build custom AI assistants with Azure OpenAI Service](https://www.youtube.com/watch?v=CMXtAe5DhXc)
@@ -32,4 +34,3 @@ A curated list of links to insights, knowledge, learning and tooling related to 
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
-* 
