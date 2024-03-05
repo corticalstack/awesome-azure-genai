@@ -2,14 +2,14 @@
 🔥 A curated list of links to insights, knowledge, learning, and tooling related to GenAI on Azure.
 
 ## Table of Contents
-- [Azure Model Services & Integration](#azure-model-services-&-integration)
+- [Azure Model Services and Integration](#azure-model-services-and-integration)
 - [Azure OpenAI Performance](#azure-openai-performance)
 - [Model Customization](#model-customization)
-- [Applications & Development Tools](#applications-&-development-tools)
+- [Applications and Development Tools](#applications-and-development-tools)
 - [Security](#security)
 - [Contributing](#contributing)
 
-## Azure Model Services & Integration
+## Azure Model Services and Integration
 * [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
@@ -27,7 +27,7 @@
 ## Model Customization
 * [Azure OpenAI fine-tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) and more [here](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
 
-## Applications & Development Tools
+## Applications and Development Tools
 * [Getting started with Azure AI Studio](https://www.linkedin.com/pulse/getting-started-azure-ai-studio-valentina-alto-wx1of/)
 * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
