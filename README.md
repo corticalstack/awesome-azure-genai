@@ -54,7 +54,7 @@
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
 * [Elevating RAG and Search: The Synergy of Azure AI Document Intelligence and Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/elevating-rag-and-search-the-synergy-of-azure-ai-document/ba-p/4006348)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
-* [The best retrieval strategies for generative AI (hint: you need more than just vector search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-best-retrieval-strategies-for-generative-ai-hint-you-need/ba-p/3960601)
+* [The best retrieval strategies for generative AI. Hint: you need more than just vector search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-best-retrieval-strategies-for-generative-ai-hint-you-need/ba-p/3960601)
 
 ## Open source models on Azure
 * [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
