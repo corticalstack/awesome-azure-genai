@@ -1,5 +1,5 @@
 # Awesome Azure GenAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of links to insights, knowledge, learning and tooling related to GenAI on Azure.
+🔥 A curated list of links to insights, knowledge, learning, and tooling related to GenAI on Azure.
 
 ## Table of Contents
 - [Azure Model Services & Integration](#azure-model-services-&-integration)
@@ -7,8 +7,10 @@ A curated list of links to insights, knowledge, learning and tooling related to 
 - [Model Customization](#model-customization)
 - [Applications & Development Tools](#applications-&-development-tools)
 - [Security](#security)
+- [Contributing](#contributing)
 
 ## Azure Model Services & Integration
+* [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
 * [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
@@ -34,3 +36,7 @@ A curated list of links to insights, knowledge, learning and tooling related to 
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
+
+## Contributing
+
+Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
