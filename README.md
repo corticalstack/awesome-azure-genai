@@ -27,10 +27,12 @@
 * [Load testing Azure OpenAI endpoints](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-azure-openai-with-jmeter/ba-p/4068117)
 * [Azure OpenAI latency](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency)
 * [Azure OpenAI PTUs (Provisioned Throughput Units)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
+* [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
 
 ## Model Customization
 * [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
 * [Fine tuning with Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
+* [Fine Tuning with Function Calling on Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-with-function-calling-on-azure-openai-service/ba-p/4065968)
 
 ## Applications and Development Tools
 * [Azure OpenAI samples](https://github.com/Azure/azure-openai-samples)
@@ -49,6 +51,10 @@
 * [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
 * [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
+* [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
+* [Elevating RAG and Search: The Synergy of Azure AI Document Intelligence and Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/elevating-rag-and-search-the-synergy-of-azure-ai-document/ba-p/4006348)
+* [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
+* [The best retrieval strategies for generative AI (hint: you need more than just vector search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-best-retrieval-strategies-for-generative-ai-hint-you-need/ba-p/3960601)
 
 ## Open source models on Azure
 * [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
@@ -65,6 +71,8 @@
 * [Elevate Your LLM Applications to Production via LLMOps and promptflow](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/elevate-your-llm-applications-to-production-via-llmops/ba-p/3979114)
 * [LLMOps Using Azure Machine Learning Prompt Flow — NER Task](https://kyleake.medium.com/llmops-using-azure-machine-learning-prompt-flow-ner-task-927d98a9a1a8)
 * [LLMOps promptflow template](https://github.com/microsoft/llmops-promptflow-template)
+* [Deploy your Azure Machine Learning prompt flow on virtually any platform](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/deploy-your-azure-machine-learning-prompt-flow-on-virtually-any/ba-p/4004307)
+* [Enable GPT failover with Azure OpenAI and Azure API Management](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/enable-gpt-failover-with-azure-openai-and-azure-api-management/ba-p/4038233)
 
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
