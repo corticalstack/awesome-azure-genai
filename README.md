@@ -7,6 +7,7 @@
 - [Azure OpenAI Performance](#azure-openai-performance)
 - [Model Customization](#model-customization)
 - [Applications and Development Tools](#applications-and-development-tools)
+- [Open source models on Azure](#open-source-models-on-azure)
 - [Security](#security)
 - [Operations](#operations)
 - [Contributing](#contributing)
