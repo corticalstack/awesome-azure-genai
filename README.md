@@ -59,6 +59,7 @@
 * [An Introduction to LLMOps: Operationalizing and Managing Large Language Models using Azure ML](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996)
 * [Elevate Your LLM Applications to Production via LLMOps and promptflow](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/elevate-your-llm-applications-to-production-via-llmops/ba-p/3979114)
 * [LLMOps Using Azure Machine Learning Prompt Flow — NER Task](https://kyleake.medium.com/llmops-using-azure-machine-learning-prompt-flow-ner-task-927d98a9a1a8)
+* [LLMOps promptflow template](https://github.com/microsoft/llmops-promptflow-template)
 
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
