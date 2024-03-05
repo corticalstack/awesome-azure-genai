@@ -29,7 +29,8 @@
 * [Azure OpenAI PTUs (Provisioned Throughput Units)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
 
 ## Model Customization
-* [Azure OpenAI fine-tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio) and more [here](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
+* [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
+* [Fine tuning with Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
 
 ## Applications and Development Tools
 * [Getting started with Azure AI Studio](https://www.linkedin.com/pulse/getting-started-azure-ai-studio-valentina-alto-wx1of/)
