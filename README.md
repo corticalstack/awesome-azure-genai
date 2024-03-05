@@ -1,5 +1,5 @@
 # Awesome Azure GenAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-🔥 A curated list of links to insights, knowledge, learning, and tooling related to GenAI on Azure.
+🔥 A curated list of awesome links to essential info, insights, knowledge, learning, and tooling related to GenAI on Azure.
 
 ## Table of Contents
 - [Azure Model Services and Integration](#azure-model-services-and-integration)
