@@ -2,16 +2,20 @@
 🔥 A curated list of awesome links to essential info, insights, knowledge, learning, and tooling related to GenAI on Azure.
 
 ## Table of Contents
+- [Essentials](#essentials)
 - [Azure Model Services and Integration](#azure-model-services-and-integration)
 - [Azure OpenAI Performance](#azure-openai-performance)
 - [Model Customization](#model-customization)
 - [Applications and Development Tools](#applications-and-development-tools)
 - [Security](#security)
+- [Operations](#operations)
 - [Contributing](#contributing)
 
-## Azure Model Services and Integration
+## Essentials
 * [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
+
+## Azure Model Services and Integration
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
 * [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
 * [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
@@ -29,6 +33,7 @@
 
 ## Applications and Development Tools
 * [Getting started with Azure AI Studio](https://www.linkedin.com/pulse/getting-started-azure-ai-studio-valentina-alto-wx1of/)
+* [Azure sample OpenAI end-to-end baseline reference implementation](https://github.com/azure-Samples/openai-end-to-end-baseline)
 * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
 * [Assistants API to build custom AI assistants with Azure OpenAI Service](https://www.youtube.com/watch?v=CMXtAe5DhXc)
@@ -40,6 +45,11 @@
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
 * [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)
 
-## Contributing
+## Operations
+* [Calulating business unit chargebacks using shared Azure OpenAI instance](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202)
+* [An Introduction to LLMOps: Operationalizing and Managing Large Language Models using Azure ML](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996)
+* [Elevate Your LLM Applications to Production via LLMOps and promptflow](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/elevate-your-llm-applications-to-production-via-llmops/ba-p/3979114)
+* [LLMOps Using Azure Machine Learning Prompt Flow — NER Task](https://kyleake.medium.com/llmops-using-azure-machine-learning-prompt-flow-ner-task-927d98a9a1a8)
 
+## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
