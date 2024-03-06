@@ -61,7 +61,6 @@
 * [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
-* 
 
 ## RAG and Retrieval
 * [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
