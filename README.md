@@ -7,11 +7,12 @@
 - [Model Services](#model-services)
 - [Open source models on Azure](#open-source-models-on-azure)
 - [Model Customization](#model-customization)
-- [Azure OpenAI Performance](#azure-openai-performance)
+- [Prompting](#prompting)
 - [Applications and Development Tools](#applications-and-development-tools)
 - [RAG and Retrieval](#rag-and-retrieval)
 - [Copilot](#copilot)
 - [Security](#security)
+- [Azure OpenAI Performance](#azure-openai-performance)
 - [Operations](#operations)
 - [Contributing](#contributing)
 
@@ -38,11 +39,9 @@
 * [Fine tuning with Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
 * [Fine Tuning with Function Calling on Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-with-function-calling-on-azure-openai-service/ba-p/4065968)
 
-## Azure OpenAI Performance
-* [Load testing Azure OpenAI endpoints](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-azure-openai-with-jmeter/ba-p/4068117)
-* [Azure OpenAI latency](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency)
-* [Azure OpenAI PTUs (Provisioned Throughput Units)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
-* [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
+## Prompting
+* [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
+* [Prompting - provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
 ## Applications and Development Tools
 * [Azure OpenAI samples](https://github.com/Azure/azure-openai-samples)
@@ -52,8 +51,6 @@
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
 * [Assistants API to build custom AI assistants with Azure OpenAI Service](https://www.youtube.com/watch?v=CMXtAe5DhXc)
 * [Analyze Videos with Azure Open AI GPT-4 Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)
-* [Prompting - provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
-* [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
 * [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
@@ -75,6 +72,12 @@
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
 * [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)
 * [Data Security, Protection and Model Management – with Azure OpenAI](https://www.linkedin.com/pulse/data-security-protection-model-management-azure-kalai-shakrapani-6xq9c/?trackingId=39PX2qsES5SZ7ch0iESB%2Bw%3D%3D)
+
+## Azure OpenAI Performance
+* [Load testing Azure OpenAI endpoints](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-azure-openai-with-jmeter/ba-p/4068117)
+* [Azure OpenAI latency](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency)
+* [Azure OpenAI PTUs (Provisioned Throughput Units)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
+* [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
 
 ## Operations
 * [Calulating business unit chargebacks using shared Azure OpenAI instance](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202)
