@@ -38,6 +38,7 @@
 * [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
 * [Fine tuning with Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-now-available-with-azure-openai-service/ba-p/3954693)
 * [Fine Tuning with Function Calling on Azure OpenAI Service](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/fine-tuning-with-function-calling-on-azure-openai-service/ba-p/4065968)
+* [Cost Optimized hosting of Fine-tuned LLMs in Production](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/cost-optimized-hosting-of-fine-tuned-llms-in-production/ba-p/4062192)
 
 ## Prompting
 * [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
@@ -55,6 +56,10 @@
 * [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
+* [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
+* [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
+* [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
+* 
 
 ## RAG and Retrieval
 * [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
@@ -67,6 +72,7 @@
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
 * [Creating a GenAI Enterprise Co-pilot](https://www.linkedin.com/pulse/genai-enterprise-copilot-serhiy-seletskyi--mprqf/?trackingId=ea1fOd%2BrTXOODIoiZfjNrg%3D%3D)
 * [Building smarter Copilots with Copilot Studio and Azure OpenAI integration](https://forwardforever.com/building-smarter-copilots-with-copilot-studio-and-azure-openai-integration/)
+* [Microsoft Copilot personal and work experiences explained](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/microsoft-copilot-personal-and-work-experiences-explained/ba-p/4067951)
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
