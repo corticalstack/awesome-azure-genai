@@ -41,7 +41,7 @@
 
 ## Prompting
 * [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
-* [Prompting - provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
+* [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
 ## Applications and Development Tools
 * [Azure OpenAI samples](https://github.com/Azure/azure-openai-samples)
