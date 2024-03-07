@@ -74,7 +74,7 @@
 * [Creating a GenAI Enterprise Co-pilot](https://www.linkedin.com/pulse/genai-enterprise-copilot-serhiy-seletskyi--mprqf/?trackingId=ea1fOd%2BrTXOODIoiZfjNrg%3D%3D)
 * [Building smarter Copilots with Copilot Studio and Azure OpenAI integration](https://forwardforever.com/building-smarter-copilots-with-copilot-studio-and-azure-openai-integration/)
 * [Microsoft Copilot personal and work experiences explained](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/microsoft-copilot-personal-and-work-experiences-explained/ba-p/4067951)
-* [Code repo for creating copilot enterprise chat API using custom Python code to ground the copilot responses in your company data & APIs](https://github.com/Azure/aistudio-copilot-sample)
+* [Repo for creating copilot enterprise chat API using custom Python code to ground copilot responses in your company data & APIs](https://github.com/Azure/aistudio-copilot-sample)
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
