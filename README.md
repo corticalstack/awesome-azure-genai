@@ -68,6 +68,7 @@
 * [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 * [Elevating RAG and Search: The Synergy of Azure AI Document Intelligence and Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/elevating-rag-and-search-the-synergy-of-azure-ai-document/ba-p/4006348)
 * [The best retrieval strategies for generative AI. Hint: you need more than just vector search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-best-retrieval-strategies-for-generative-ai-hint-you-need/ba-p/3960601)
+* [Building a RAG App with VS Code and Prompt Flow extension](https://www.youtube.com/watch?v=4oCLjQdLMxQ)
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
