@@ -9,6 +9,7 @@
 - [Model Customization](#model-customization)
 - [Prompting](#prompting)
 - [Applications and Development Tools](#applications-and-development-tools)
+- [Prompt flow](#prompt-flow)
 - [RAG and Retrieval](#rag-and-retrieval)
 - [Copilot](#copilot)
 - [Security](#security)
@@ -45,7 +46,7 @@
 * [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
 * [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
-## Applications and Development Tools
+## Applications and Development
 * [Azure OpenAI samples GitHub repo](https://github.com/Azure/azure-openai-samples)
 * [Azure-OpenAI-demos GitHub repo](https://github.com/retkowsky/Azure-OpenAI-demos/)
 * [ChatGPT + Enterprise data with Azure OpenAI and AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
@@ -54,15 +55,17 @@
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
 * [Assistants API to build custom AI assistants with Azure OpenAI Service](https://www.youtube.com/watch?v=CMXtAe5DhXc)
 * [Analyze Videos with Azure Open AI GPT-4 Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)
+* [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
+* [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
+* [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
+
+## Prompt flow
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
 * [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
 * [Running batches with promptflow](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/running-batches-with-prompt-flow?tabs=gpt-35-turbo)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
 * [Troubleshooting prompt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/tools-reference/troubleshoot-guidance?view=azureml-api-2)
-* [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
-* [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
-* [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
 
 ## RAG and Retrieval
 * [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
