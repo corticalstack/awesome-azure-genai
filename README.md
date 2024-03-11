@@ -57,6 +57,7 @@
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
 * [Part 1 of Prompt Flow in Azure Machine Learning: Industry-grade prompt management](https://medium.com/productizing-language-models/part-1-of-prompt-flow-in-azure-machine-learning-industry-grade-prompt-management-87b5b6f853d4)
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
+* [Running batches with promptflow](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/running-batches-with-prompt-flow?tabs=gpt-35-turbo)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
 * [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
