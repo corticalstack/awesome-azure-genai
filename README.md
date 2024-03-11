@@ -59,6 +59,7 @@
 * [Build, benchmark, evaluate and deploy real-time inference endpoint with Prompt Flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-benchmark-evaluate-and-deploy-real-time-inference-endpoint/ba-p/4056330)
 * [Running batches with promptflow](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/running-batches-with-prompt-flow?tabs=gpt-35-turbo)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
+* [Troubleshooting prompt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/tools-reference/troubleshoot-guidance?view=azureml-api-2)
 * [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
