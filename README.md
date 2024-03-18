@@ -13,6 +13,7 @@
 - [RAG and Retrieval](#rag-and-retrieval)
 - [Copilot](#copilot)
 - [Security](#security)
+- [Responsibility](#responsibility)
 - [Azure OpenAI Performance](#azure-openai-performance)
 - [Operations](#operations)
 - [Contributing](#contributing)
@@ -81,11 +82,15 @@
 * [Building smarter Copilots with Copilot Studio and Azure OpenAI integration](https://forwardforever.com/building-smarter-copilots-with-copilot-studio-and-azure-openai-integration/)
 * [Microsoft Copilot personal and work experiences explained](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/microsoft-copilot-personal-and-work-experiences-explained/ba-p/4067951)
 * [Repo for creating copilot enterprise chat API using custom Python code to ground copilot responses in your company data & APIs](https://github.com/Azure/aistudio-copilot-sample)
+* [Build copilots with Azure AI Studio](https://www.microsoft.com/en-us/videoplayer/embed/RW1gW9W)
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
 * [Security Best Practices for GenAI Applications (OpenAI) in Azure](https://techcommunity.microsoft.com/t5/azure-architecture-blog/security-best-practices-for-genai-applications-openai-in-azure/ba-p/4027885)
 * [Data Security, Protection and Model Management – with Azure OpenAI](https://www.linkedin.com/pulse/data-security-protection-model-management-azure-kalai-shakrapani-6xq9c/?trackingId=39PX2qsES5SZ7ch0iESB%2Bw%3D%3D)
+
+## Responsibility
+* [Responsible AI developer hub](https://azure.github.io/responsible-ai-hub/)
 
 ## Azure OpenAI Performance
 * [Load testing Azure OpenAI endpoints](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-azure-openai-with-jmeter/ba-p/4068117)
