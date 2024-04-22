@@ -59,6 +59,7 @@
 * [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
+* [Unlocking Advanced Document Insights with Azure AI Document Intelligence](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unlocking-advanced-document-insights-with-azure-ai-document/ba-p/4109675)
 
 ## Prompt flow
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
@@ -75,6 +76,8 @@
 * [Elevating RAG and Search: The Synergy of Azure AI Document Intelligence and Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/elevating-rag-and-search-the-synergy-of-azure-ai-document/ba-p/4006348)
 * [The best retrieval strategies for generative AI. Hint: you need more than just vector search](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-best-retrieval-strategies-for-generative-ai-hint-you-need/ba-p/3960601)
 * [Building a RAG App with VS Code and Prompt Flow extension](https://www.youtube.com/watch?v=4oCLjQdLMxQ)
+* [Blog on building intelligent RAG For multimodality and complex document structure](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-intelligent-rag-for-multimodality-and-complex-document/ba-p/4118184)
+* [Blog on advanced RAG with AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
