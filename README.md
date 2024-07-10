@@ -48,6 +48,7 @@
 * [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
 ## Applications and Development
+* [Choosing the right tool: a comparitive analysis of the Assistants API and Chat Completions API](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/choosing-the-right-tool-a-comparative-analysis-of-the-assistants/ba-p/4140438)
 * [Azure OpenAI samples GitHub repo](https://github.com/Azure/azure-openai-samples)
 * [Azure-OpenAI-demos GitHub repo](https://github.com/retkowsky/Azure-OpenAI-demos/)
 * [ChatGPT + Enterprise data with Azure OpenAI and AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
@@ -80,6 +81,8 @@
 * [Blog on advanced RAG with AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
 * [Blog on step-by-step guide to evaluating RAG with Azure AI Search, Azure OpenAI, LlamaIndex, and Tonic AI](https://farzzy.hashnode.dev/step-by-step-guide-to-evaluating-rag-with-azure-ai-search-azure-openai-llamaindex-and-tonic-ai)
 * [Learnings from ingesting millions of technical pages for RAG on Azure](https://jakobs.dev/learnings-ingesting-millions-pages-rag-azure/)
+* [Load testing RAG based GenAI applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-rag-based-generative-ai-applications/ba-p/4086993)
+* [SuperRAG – How to achieve higher accuracy with Retrieval Augmented Generation](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/superrag-how-to-achieve-higher-accuracy-with-retrieval-augmented/ba-p/4139004)
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
@@ -101,9 +104,11 @@
 * [Load testing Azure OpenAI endpoints](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-azure-openai-with-jmeter/ba-p/4068117)
 * [Azure OpenAI latency](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency)
 * [Azure OpenAI PTUs (Provisioned Throughput Units)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
+* [Best practice guidance for PTU](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/best-practice-guidance-for-ptu/ba-p/4152133)
 * [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
 
 ## Operations
+* [Azure OpenAI Best Practices Insights from Customer Journeys](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-openai-best-practices-insights-from-customer-journeys/ba-p/4166943)
 * [The LLM Latency Guidebook: Optimizing Response Times for GenAI Applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-llm-latency-guidebook-optimizing-response-times-for-genai/ba-p/4131994)
 * [Calulating business unit chargebacks using shared Azure OpenAI instance](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202)
 * [An Introduction to LLMOps: Operationalizing and Managing Large Language Models using Azure ML](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996)
