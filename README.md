@@ -32,6 +32,7 @@
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
 * [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
 * [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268)
+* [Comparing GPT-3.5 & GPT-4: A Thought Framework on When To Use Each Model](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/comparing-gpt-3-5-amp-gpt-4-a-thought-framework-on-when-to-use/ba-p/4088645)
 
 ## Open source models on Azure
 * [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
@@ -48,6 +49,8 @@
 * [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
 ## Applications and Development
+* [Get started with Function Calling through Assistants API on Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/get-started-with-function-calling-through-assistants-api-on/ba-p/4093150)
+* [Unveiling Generative AI Bulk Processing and Ingestion Pattern](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unveiling-generative-ai-bulk-processing-and-ingestion-pattern/ba-p/4120777)
 * [Choosing the right tool: a comparitive analysis of the Assistants API and Chat Completions API](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/choosing-the-right-tool-a-comparative-analysis-of-the-assistants/ba-p/4140438)
 * [Azure OpenAI samples GitHub repo](https://github.com/Azure/azure-openai-samples)
 * [Azure-OpenAI-demos GitHub repo](https://github.com/retkowsky/Azure-OpenAI-demos/)
@@ -83,6 +86,7 @@
 * [Learnings from ingesting millions of technical pages for RAG on Azure](https://jakobs.dev/learnings-ingesting-millions-pages-rag-azure/)
 * [Load testing RAG based GenAI applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-rag-based-generative-ai-applications/ba-p/4086993)
 * [SuperRAG – How to achieve higher accuracy with Retrieval Augmented Generation](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/superrag-how-to-achieve-higher-accuracy-with-retrieval-augmented/ba-p/4139004)
+* [Advanced RAG with Azure AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
