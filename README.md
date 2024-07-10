@@ -78,6 +78,8 @@
 * [Building a RAG App with VS Code and Prompt Flow extension](https://www.youtube.com/watch?v=4oCLjQdLMxQ)
 * [Blog on building intelligent RAG For multimodality and complex document structure](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/build-intelligent-rag-for-multimodality-and-complex-document/ba-p/4118184)
 * [Blog on advanced RAG with AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
+* [Blog on step-by-step guide to evaluating RAG with Azure AI Search, Azure OpenAI, LlamaIndex, and Tonic AI](https://farzzy.hashnode.dev/step-by-step-guide-to-evaluating-rag-with-azure-ai-search-azure-openai-llamaindex-and-tonic-ai)
+* [Learnings from ingesting millions of technical pages for RAG on Azure](https://jakobs.dev/learnings-ingesting-millions-pages-rag-azure/)
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
@@ -102,6 +104,7 @@
 * [Right-size your PTU deployment and save big](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/right-size-your-ptu-deployment-and-save-big/ba-p/4053857)
 
 ## Operations
+* [The LLM Latency Guidebook: Optimizing Response Times for GenAI Applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/the-llm-latency-guidebook-optimizing-response-times-for-genai/ba-p/4131994)
 * [Calulating business unit chargebacks using shared Azure OpenAI instance](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202)
 * [An Introduction to LLMOps: Operationalizing and Managing Large Language Models using Azure ML](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996)
 * [Achieve generative AI operational excellence with the LLMOps maturity model](https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/)
@@ -111,6 +114,7 @@
 * [LLMOps promptflow template](https://github.com/microsoft/llmops-promptflow-template)
 * [Deploy your Azure Machine Learning prompt flow on virtually any platform](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/deploy-your-azure-machine-learning-prompt-flow-on-virtually-any/ba-p/4004307)
 * [Enable GPT failover with Azure OpenAI and Azure API Management](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/enable-gpt-failover-with-azure-openai-and-azure-api-management/ba-p/4038233)
+* [Blog on Azure OpenAI best practices for production](https://medium.com/@manoranjan.rajguru/azure-openai-best-practices-for-production-b733eca4bde5) 
 
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
