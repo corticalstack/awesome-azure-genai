@@ -64,6 +64,7 @@
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
 * [Unlocking Advanced Document Insights with Azure AI Document Intelligence](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unlocking-advanced-document-insights-with-azure-ai-document/ba-p/4109675)
+* [Deploy a Phi-3 model in Azure AI, and consume it with C# and Semantic Kernel](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploy-a-phi-3-model-in-azure-ai-and-consume-it-with-c-and/ba-p/4188024)
 
 ## Prompt flow
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
