@@ -73,6 +73,7 @@
 * [Running batches with promptflow](https://learn.microsoft.com/en-us/semantic-kernel/agents/planners/evaluate-and-deploy-planners/running-batches-with-prompt-flow?tabs=gpt-35-turbo)
 * [Combine Semantic Kernel with Azure Machine Learning prompt flow](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/combine-semantic-kernel-with-azure-machine-learning-prompt-flow/ba-p/4008981)
 * [Troubleshooting prompt flow](https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/tools-reference/troubleshoot-guidance?view=azureml-api-2)
+* [Repo with promptflow templates for building LLM-infused apps](https://github.com/microsoft/genaiops-promptflow-template)
 
 ## RAG and Retrieval
 * [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
