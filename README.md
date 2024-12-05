@@ -126,7 +126,8 @@
 * [LLMOps promptflow template](https://github.com/microsoft/llmops-promptflow-template)
 * [Deploy your Azure Machine Learning prompt flow on virtually any platform](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/deploy-your-azure-machine-learning-prompt-flow-on-virtually-any/ba-p/4004307)
 * [Enable GPT failover with Azure OpenAI and Azure API Management](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/enable-gpt-failover-with-azure-openai-and-azure-api-management/ba-p/4038233)
-* [Blog on Azure OpenAI best practices for production](https://medium.com/@manoranjan.rajguru/azure-openai-best-practices-for-production-b733eca4bde5) 
+* [Blog on Azure OpenAI best practices for production](https://medium.com/@manoranjan.rajguru/azure-openai-best-practices-for-production-b733eca4bde5)
+* [Code-first LLMOps](https://www.youtube.com/watch?v=_Mwxukq5_mg)
 
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
