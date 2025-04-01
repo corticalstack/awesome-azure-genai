@@ -28,6 +28,7 @@
 * [Azure Well-Architected Framework perspective on Azure OpenAI](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai)
 * [Azure Well-Architected Framework perspective on Azure Machine Learning](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-machine-learning)
 * [HAX design library for Human-AI interaction guidelines](https://www.microsoft.com/en-us/haxtoolkit/library/?content_type%5B0%5D=guideline&content_type%5B1%5D=pattern&content_type%5B%5D=example)
+* [APIM AI gateway labs](https://github.com/Azure-Samples/AI-Gateway) 
 
 ## Model Services
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
@@ -93,6 +94,7 @@
 * [Advanced RAG with Azure AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
 
 ## AI Foundry
+* [Collection of Azure AI Foundry solution examples](https://github.com/corticalstack/azure-ai-foundry-examples)
 
 
 ## Semantic Kernel
@@ -101,6 +103,8 @@
 * [Multi-agent with AI Agent and Semantic Kernel blog](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)
 * [Semantic Kernal chat completion auto function calling](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/?pivots=programming-language-python)
 * [Observability in Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/?pivots=programming-language-python)
+* [Moneta - Semantic Kernel AI-Agentic Assistant for Insurance and Banking](https://github.com/Azure-Samples/moneta-agents)
+* [Semantic Kernel python examples](https://github.com/golden-aries/semantic-kernel/tree/ca052ee4793109d8e9bbbd861e46e81c6ab4f854/python/samples)
 
 
 ## Copilot
@@ -141,5 +145,8 @@
 * [Blog on Azure OpenAI best practices for production](https://medium.com/@manoranjan.rajguru/azure-openai-best-practices-for-production-b733eca4bde5)
 * [Code-first LLMOps](https://www.youtube.com/watch?v=_Mwxukq5_mg)
 
+## Other
+* [Azure Solution Accelerator Finder](https://florki610.github.io/accelerator-finder/)
+  
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
