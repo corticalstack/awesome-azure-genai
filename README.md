@@ -21,6 +21,7 @@
 ## Essentials
 * [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
+* [What is Azure AI Foundry?](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-ai-foundry)
 
 ## Integration
 * [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
@@ -90,6 +91,17 @@
 * [Load testing RAG based GenAI applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-rag-based-generative-ai-applications/ba-p/4086993)
 * [SuperRAG – How to achieve higher accuracy with Retrieval Augmented Generation](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/superrag-how-to-achieve-higher-accuracy-with-retrieval-augmented/ba-p/4139004)
 * [Advanced RAG with Azure AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
+
+## AI Foundry
+
+
+## Semantic Kernel
+* [Blog multi-agent collab with selection and termination strategy blog](https://devblogs.microsoft.com/semantic-kernel/guest-blog-step-by-step-guide-to-building-a-portfolio-manager-a-multi-agent-system-with-microsoft-semantic-kernel-and-azure-openai/)
+* [Multi-agent collaboration](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/agent-chat?pivots=programming-language-python)
+* [Multi-agent with AI Agent and Semantic Kernel blog](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)
+* [Semantic Kernal chat completion auto function calling](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/function-calling/?pivots=programming-language-python)
+* [Observability in Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/?pivots=programming-language-python)
+
 
 ## Copilot
 * [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
