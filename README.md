@@ -23,22 +23,22 @@
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
 * [What is Azure AI Foundry?](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-ai-foundry)
 
+## Model Services
+* [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
+* [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
+* [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268)
+* [Azure OpenAI Service model deprecations and retirements](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements)
+
+## Open source models on Azure
+* [Fine Tuning Open Source Large Language Models (PEFT QLoRA) on Azure Machine Learning](https://blog.devgenius.io/fine-tuning-large-language-models-on-azure-machine-learning-358338f4e66a)
+
 ## Integration
 * [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
 * [Azure Well-Architected Framework perspective on Azure OpenAI](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai)
 * [Azure Well-Architected Framework perspective on Azure Machine Learning](https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-machine-learning)
 * [HAX design library for Human-AI interaction guidelines](https://www.microsoft.com/en-us/haxtoolkit/library/?content_type%5B0%5D=guideline&content_type%5B1%5D=pattern&content_type%5B%5D=example)
-* [APIM AI gateway labs](https://github.com/Azure-Samples/AI-Gateway) 
-
-## Model Services
-* [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
-* [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
-* [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268)
-* [Comparing GPT-3.5 & GPT-4: A Thought Framework on When To Use Each Model](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/comparing-gpt-3-5-amp-gpt-4-a-thought-framework-on-when-to-use/ba-p/4088645)
-
-## Open source models on Azure
-* [Mistral Large, Mistral AI's flagship LLM, debuts on Azure AI Models-as-a-Service](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mistral-large-mistral-ai-s-flagship-llm-debuts-on-azure-ai/ba-p/4066996)
-* [Fine Tuning Open Source Large Language Models (PEFT QLoRA) on Azure Machine Learning](https://blog.devgenius.io/fine-tuning-large-language-models-on-azure-machine-learning-358338f4e66a)
+* [APIM AI gateway labs](https://github.com/Azure-Samples/AI-Gateway)
+* [Manage traffic with spillover for provisioned deployment](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/spillover-traffic-management)
 
 ## Model Customization
 * [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
@@ -50,6 +50,9 @@
 * [Write more effective prompts](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/3-write-effective-prompts)
 * [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
+## AI Foundry
+* [Collection of Azure AI Foundry solution examples](https://github.com/corticalstack/azure-ai-foundry-examples)
+
 ## Applications and Development
 * [Get started with Function Calling through Assistants API on Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/get-started-with-function-calling-through-assistants-api-on/ba-p/4093150)
 * [Unveiling Generative AI Bulk Processing and Ingestion Pattern](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unveiling-generative-ai-bulk-processing-and-ingestion-pattern/ba-p/4120777)
@@ -57,16 +60,14 @@
 * [Azure OpenAI samples GitHub repo](https://github.com/Azure/azure-openai-samples)
 * [Azure-OpenAI-demos GitHub repo](https://github.com/retkowsky/Azure-OpenAI-demos/)
 * [ChatGPT + Enterprise data with Azure OpenAI and AI Search](https://github.com/Azure-Samples/azure-search-openai-demo)
-* [Getting started with Azure AI Studio](https://www.linkedin.com/pulse/getting-started-azure-ai-studio-valentina-alto-wx1of/)
 * [Azure sample OpenAI end-to-end baseline reference implementation](https://github.com/azure-Samples/openai-end-to-end-baseline)
 * [Securely use Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-your-data-securely)
 * [Assistants API to build custom AI assistants with Azure OpenAI Service](https://www.youtube.com/watch?v=CMXtAe5DhXc)
 * [Analyze Videos with Azure Open AI GPT-4 Turbo with Vision and Azure Data Factory](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/analyze-videos-with-azure-open-ai-gpt-4-turbo-with-vision-and/ba-p/4032778)
-* [Unleashing the Power of SAM in Azure Machine Learning and Azure AI Studio](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/unleashing-the-power-of-sam-in-azure-machine-learning-and-azure/ba-p/4069631)
 * [Generate embeddings with the Azure AI Vision multi-modal embeddings API](https://techcommunity.microsoft.com/t5/educator-developer-blog/generate-embeddings-with-the-azure-ai-vision-multi-modal/ba-p/4067816)
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
 * [Unlocking Advanced Document Insights with Azure AI Document Intelligence](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unlocking-advanced-document-insights-with-azure-ai-document/ba-p/4109675)
-* [Deploy a Phi-3 model in Azure AI, and consume it with C# and Semantic Kernel](https://techcommunity.microsoft.com/t5/educator-developer-blog/deploy-a-phi-3-model-in-azure-ai-and-consume-it-with-c-and/ba-p/4188024)
+* [A collection of Azure AI templates deployed with the Azure Developer CLI](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d)
 
 ## Prompt flow
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
@@ -92,10 +93,12 @@
 * [Load testing RAG based GenAI applications](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/load-testing-rag-based-generative-ai-applications/ba-p/4086993)
 * [SuperRAG – How to achieve higher accuracy with Retrieval Augmented Generation](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/superrag-how-to-achieve-higher-accuracy-with-retrieval-augmented/ba-p/4139004)
 * [Advanced RAG with Azure AI Search and LlamaIndex](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/advanced-rag-with-azure-ai-search-and-llamaindex/ba-p/4115007)
+* [GPT-RAG solution accelerator](https://github.com/Azure/GPT-RAG)
+* [Faceted navugation with AI Search](https://learn.microsoft.com/en-us/azure/search/search-faceted-navigation)
 
-## AI Foundry
-* [Collection of Azure AI Foundry solution examples](https://github.com/corticalstack/azure-ai-foundry-examples)
-
+## Evaluation
+* [Evaluation of generative AI applications](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-approach-gen-ai)
+* [Samples evaluating Generative AI output with the *azure-ai-evaluation* SDK](https://github.com/Azure-Samples/azureai-samples/tree/main/scenarios/evaluate)
 
 ## Semantic Kernel
 * [Blog multi-agent collab with selection and termination strategy blog](https://devblogs.microsoft.com/semantic-kernel/guest-blog-step-by-step-guide-to-building-a-portfolio-manager-a-multi-agent-system-with-microsoft-semantic-kernel-and-azure-openai/)
@@ -106,14 +109,12 @@
 * [Moneta - Semantic Kernel AI-Agentic Assistant for Insurance and Banking](https://github.com/Azure-Samples/moneta-agents)
 * [Semantic Kernel python examples](https://github.com/golden-aries/semantic-kernel/tree/ca052ee4793109d8e9bbbd861e46e81c6ab4f854/python/samples)
 
-
 ## Copilot
-* [Create custom copilots with Azure AI Studio](https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/)
 * [Creating a GenAI Enterprise Co-pilot](https://www.linkedin.com/pulse/genai-enterprise-copilot-serhiy-seletskyi--mprqf/?trackingId=ea1fOd%2BrTXOODIoiZfjNrg%3D%3D)
 * [Building smarter Copilots with Copilot Studio and Azure OpenAI integration](https://forwardforever.com/building-smarter-copilots-with-copilot-studio-and-azure-openai-integration/)
 * [Microsoft Copilot personal and work experiences explained](https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/microsoft-copilot-personal-and-work-experiences-explained/ba-p/4067951)
 * [Repo for creating copilot enterprise chat API using custom Python code to ground copilot responses in your company data & APIs](https://github.com/Azure/aistudio-copilot-sample)
-* [Build copilots with Azure AI Studio](https://www.microsoft.com/en-us/videoplayer/embed/RW1gW9W)
+* [An end-to-end example of a Legal Research Copilot application](https://github.com/Azure-Samples/graphrag-legalcases-postgres)
 
 ## Security
 * [Azure PyRIT Python Risk Identification Toolkit for red teaming generative AI](https://github.com/Azure/PyRIT)
