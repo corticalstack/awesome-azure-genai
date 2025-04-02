@@ -148,6 +148,7 @@
 
 ## Other
 * [Azure Solution Accelerator Finder](https://florki610.github.io/accelerator-finder/)
+* [Bootstrap the building of an agentic application](https://github.com/Azure-Samples/az-ai-kickstarter)
   
 ## Contributing
 Your contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/corticalstack/awesome-azure-genai/blob/master/CONTRIBUTING.md) first.
