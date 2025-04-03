@@ -44,6 +44,7 @@
 * [Manage traffic with spillover for provisioned deployment](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/spillover-traffic-management)
 * [AI Hub Gateway Landing Zone solution accelerator for implementing a central AI API gateway](https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator)
 * [Azure OpenAI with APIM scaling special sauce](https://github.com/Azure/aoai-apim/blob/main/README.md)
+* [How to configure a private link for Azure AI Foundry hubs](https://learn.microsoft.com/en-gb/azure/ai-foundry/how-to/configure-private-link?tabs=azure-portal)
 
 ## Model Customization
 * [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
@@ -56,6 +57,8 @@
 * [Provide context to improve accuracy](https://learn.microsoft.com/en-us/training/modules/apply-prompt-engineering-azure-openai/4-provide-context-to-improve-accuracy?pivots=python)
 
 ## AI Foundry
+* [What is AI Foundry?](https://learn.microsoft.com/en-gb/azure/ai-foundry/what-is-ai-foundry)
+* [How to create a secure AI Foundry Hub](https://learn.microsoft.com/en-gb/azure/ai-foundry/how-to/create-secure-ai-hub)
 * [Collection of Azure AI Foundry solution examples](https://github.com/corticalstack/azure-ai-foundry-examples)
 
 ## Applications and Development
