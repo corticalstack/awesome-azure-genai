@@ -22,6 +22,9 @@
 * [What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 * [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
 * [What is Azure AI Foundry?](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-ai-foundry)
+* [What is an Azure Landing Zone?](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
+* [Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
+* [AI workloads on Azure](https://learn.microsoft.com/en-us/azure/well-architected/ai/get-started)
 
 ## Model Services
 * [Azure Machine Learning model catalog](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-catalog?view=azureml-api-2)
@@ -39,6 +42,8 @@
 * [HAX design library for Human-AI interaction guidelines](https://www.microsoft.com/en-us/haxtoolkit/library/?content_type%5B0%5D=guideline&content_type%5B1%5D=pattern&content_type%5B%5D=example)
 * [APIM AI gateway labs](https://github.com/Azure-Samples/AI-Gateway)
 * [Manage traffic with spillover for provisioned deployment](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/spillover-traffic-management)
+* [AI Hub Gateway Landing Zone solution accelerator for implementing a central AI API gateway](https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator)
+* [Azure OpenAI with APIM scaling special sauce](https://github.com/Azure/aoai-apim/blob/main/README.md)
 
 ## Model Customization
 * [Customize a model with fine tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=turbo%2Cpython&pivots=programming-language-studio)
