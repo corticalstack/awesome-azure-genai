@@ -76,6 +76,16 @@
 * [Sentiment Analysis with Durable Functions](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-ai-language-sentiment-analysis-with-durable-functions/m-p/4055341#M825)
 * [Unlocking Advanced Document Insights with Azure AI Document Intelligence](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/unlocking-advanced-document-insights-with-azure-ai-document/ba-p/4109675)
 * [A collection of Azure AI templates deployed with the Azure Developer CLI](https://learn.microsoft.com/en-us/collections/5pq0uompdgje8d)
+* [GitHub accelerator for building your own assistants and researchers](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator)
+* [GitHub accelerator for building your own multi-modal customer service agent](https://github.com/microsoft/multi-modal-customer-service-agent)
+* [GitHub accelerator for enterprise RAG](https://github.com/Azure/gpt-rag)
+* [GitHub accelerator for AuthAuth and prior authorisation](https://github.com/Azure-Samples/autoauth-solution-accelerator)
+* [GitHub accelerator for creating AI assistants for document generation](https://github.com/microsoft/document-generation-solution-accelerator)
+* [GitHub accelerator for creating multi-agent MVPs, using AutoGen](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
+* [GitHub accelerator for mining unstructured customer data for greater insight](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator)
+* [GitHub accelerator for document mining](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator)
+* [GitHub accelerator for multi-agent RAG](https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator)
+* [GitHub accelerator for RAG chat](https://github.com/Azure-Samples/azure-search-openai-demo)
 
 ## Prompt flow
 * [Azure’s PromptFlow: Deploying LLM Applications in Production](https://www.advancinganalytics.co.uk/blog/2023/10/30/azure-machine-learning-prompt-flow-a-comprehensive-guide)
